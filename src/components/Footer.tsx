@@ -135,9 +135,7 @@ const Footer = () => {
                   className="mr-2 mt-1 flex-shrink-0"
                   size={18}
                 />
-                <span>
-                  г. Санкт-Петербург, ул. Промышленная, д. 42, офис 310
-                </span>
+                <span>г. Москва, ул. Ленинградская, д. 15, офис 203</span>
               </li>
               <li className="flex items-start">
                 <Icon
@@ -145,7 +143,7 @@ const Footer = () => {
                   className="mr-2 mt-1 flex-shrink-0"
                   size={18}
                 />
-                <span>+7 (812) 555-35-67</span>
+                <span>+7 (495) 123-45-67</span>
               </li>
               <li className="flex items-start">
                 <Icon
@@ -153,7 +151,7 @@ const Footer = () => {
                   className="mr-2 mt-1 flex-shrink-0"
                   size={18}
                 />
-                <span>info@membranekrov.ru</span>
+                <span>info@membrankrov.ru</span>
               </li>
               <li className="flex items-start">
                 <Icon

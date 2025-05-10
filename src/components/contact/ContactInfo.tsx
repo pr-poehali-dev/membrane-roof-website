@@ -1,3 +1,4 @@
+
 import { Card } from "@/components/ui/card";
 import Icon from "@/components/ui/icon";
 
@@ -12,22 +13,22 @@ const ContactInfo = () => {
     {
       icon: "MapPin",
       title: "Адрес",
-      lines: ["г. Санкт-Петербург, ул. Промышленная, д. 42, офис 310"],
+      lines: ["г. Москва, ул. Ленинградская, д. 15, офис 203"],
     },
     {
       icon: "Phone",
       title: "Телефон",
-      lines: ["+7 (812) 555-35-67", "+7 (921) 932-14-88"],
+      lines: ["+7 (495) 123-45-67", "+7 (901) 555-77-88"],
     },
     {
       icon: "Mail",
       title: "Email",
-      lines: ["info@membranekrov.ru", "zakaz@membranekrov.ru"],
+      lines: ["info@membrankrov.ru", "sales@membrankrov.ru"],
     },
     {
       icon: "Clock",
       title: "Режим работы",
-      lines: ["Пн-Пт: 8:00 - 17:00", "Сб-Вс: Выходной"],
+      lines: ["Пн-Пт: 9:00 - 18:00", "Сб-Вс: Выходной"],
     },
   ];
 
